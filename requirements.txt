@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+paramiko
+python-multipart
+pyinstaller
+pytest
+httpx
+PySide6
